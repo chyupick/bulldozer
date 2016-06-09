@@ -1,0 +1,8 @@
+*.rar
+*.zip
+*.7z
+build/
+node_modules/
+psd/
+bulldozer_responsive/
+thumbs.db
